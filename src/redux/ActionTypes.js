@@ -1,0 +1,23 @@
+export const ADD_SALLE = 'ADD_SALLE';
+export const ADD_SALLES = 'ADD_SALLES';
+export const SALLES_FAILED = 'SALLES_FAILED';
+
+export const ADD_ETUDIANT = 'ADD_ETUDIANT';
+export const ADD_ETUDIANTS = 'ADD_ETUDIANTS';
+export const ETUDIANTS_FAILED = 'ETUDIANTS_FAILED';
+
+export const ADD_PROFESSEUR = 'ADD_PROFESSEUR';
+export const ADD_PROFESSEURS = 'ADD_PROFESSEURS';
+export const PROFESSEURS_FAILED = 'PROFESSEURS_FAILED';
+
+export const ADD_COURS = 'ADD_COURS';
+export const ADD_COURSES = 'ADD_COURSES';
+export const COURSES_FAILED = 'COURSES_FAILED';
+
+export const ADD_EXAM = 'ADD_EXAM';
+export const ADD_EXAMS = 'ADD_EXAMS';
+export const EXAMS_FAILED = 'EXAMS_FAILED';
+
+export const ADD_RESULTAT = 'ADD_RESULTAT';
+export const ADD_RESULTATS = 'ADD_RESULTATS';
+export const RESULTATS_FAILED = 'RESULTATS_FAILED';
